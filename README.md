@@ -29,12 +29,12 @@
 
   <hr>
 
-  <h2>🚀 How to Use</h2>
-  <ul>
-    <li>Open the PDFs directly in GitHub or download them for offline study.</li>
-    <li>Use them as quick reminders while practicing SQL, BI, or analytics tasks.</li>
-    <li>More topics will be added over time (statistics, machine learning, Excel/Power Query, etc.).</li>
-  </ul>
+  <h2>👀 Notes</h2>
+  <p>
+    All documents are provided as PDFs – feel free to browse through them.<br>
+    They are summaries and personal notes, not full textbooks.  
+    More topics will be added over time.
+  </p>
 
   <hr>
 
