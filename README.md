@@ -24,7 +24,7 @@
   <h3>Data Analytics Glossaries</h3>
   <ul>
     <li><a href="./Data-Analyst%20Glossar.pdf">📑 Data Analyst Glossary (German)</a></li>
-    <li><a href="./Data-Analyst%20Glossar%20(Engl%20).pdf">📑 Data Analyst Glossary (English)</a></li>
+    <li><a href="./Data-Analyst%20Glossar%20(%20Engl%20)%20.pdf">📑 Data Analyst Glossary (English)</a></li>
   </ul>
 
   <hr>
