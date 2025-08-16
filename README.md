@@ -7,7 +7,7 @@
 
   <h1>📘 Study Cheatsheets</h1>
   <p>
-    Curated study notes and cheatsheets on <strong>SQL, BI, and Data Analytics</strong>.<br>
+    Curated study notes and cheatsheets on <strong>SQL, BI, Excel, and Data Analytics</strong>.<br>
     These are personal learning summaries from various resources – structured for quick reference and future extension.<br>
     The collection will <em>keep growing</em> as I continue to explore more topics.
   </p>
@@ -19,6 +19,11 @@
   <h3>SQL & Databases</h3>
   <ul>
     <li><a href="./SQL%20Kompakt%20–%20Vom%20ersten%20Query%20bis%20Business%20Intelligence.pdf">📖 SQL Kompakt – From first query to Business Intelligence (German)</a></li>
+  </ul>
+
+  <h3>Excel & Productivity</h3>
+  <ul>
+    <li><a href="./Excel%20–%20Vom%20ersten%20Klick%20bis%20Business-Integration.pdf">📊 Excel Deepsearch – From first click to business integration (German)</a></li>
   </ul>
 
   <h3>Data Analytics Glossaries</h3>
